@@ -1,14 +1,14 @@
-# -broadcast-something-over-fm-using-raspberry-pi-
-Broadcast locally, on any particular frequency using Raspberry Pi 2/3
+# -broadcast-something-over-fm-using-raspberry-pi-               
+Broadcast locally, on any particular frequency using Raspberry Pi 2/3                   
 
-Things you must have::->
+Things you must have::->                  
 
-1.A RASPBERRY PI 2/3
-2.A SSH CLIENT TO CONNECT TO RASPBERRY PI USING PC OR LAPTOP e.g. PUTTY for windows 
-3.NOW CONECT TO RASPBERRY PI USING PUTTY
-4.IF LOGINNG FIRST TIME ....LOGIN ID =pi and PASSWORDS =raspberry
-5.AFER SUCESSFUL LOGING :
-    A)MAKE A NEW  C FILE (SAY IT my_fm.c)  AND COPY PI_FM.C CONTENT FROM GIT REPOSITORY,  TO THAT FILE  OR SIMPLY CLONE MY GIT REPOSITORY 
+1.A RASPBERRY PI 2/3            
+2.A SSH CLIENT TO CONNECT TO RASPBERRY PI USING PC OR LAPTOP e.g. PUTTY for windows                   
+3.NOW CONECT TO RASPBERRY PI USING PUTTY                      
+4.IF LOGINNG FIRST TIME ....LOGIN ID =pi and PASSWORDS =raspberry                   
+5.AFER SUCESSFUL LOGING :               
+    A)MAKE A NEW  C FILE (SAY IT my_fm.c)  AND COPY PI_FM.C CONTENT FROM GIT REPOSITORY,  TO THAT FILE  OR SIMPLY CLONE MY GIT REPOSITORY         
             $ sudo nano my_fm.c                                    //PAST  COPIED PROGRAM  CODE HERE AND SAVE 
             
             
