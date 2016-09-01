@@ -19,7 +19,7 @@ Things you must have::->
                  
     D) RUN THE my_fm FILE WITH ARGUMENTS ->   .wav TYPE SOUND AND THE FREQUENCY @ WHICH U WANT TO  BROADCAST
             
-                 $ ./my_fm ./star-wars.wav 100.0
+                 $ ./my_fm ./star-wars.wav 100.0 
                  
                  
     
